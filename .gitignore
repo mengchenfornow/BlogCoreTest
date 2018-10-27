@@ -3,3 +3,7 @@
 ################################################################################
 
 /Blog.Core/.vs
+/.vs/Blog.Core/v15/Server/sqlite3
+/Blog.Core/bin/Debug/netcoreapp2.1
+/Blog.Core/obj
+/.vs/Blog.Core/v15
